@@ -1,0 +1,23 @@
+Privacy Policy for PSC Browser
+
+Last updated: July 2026
+
+1. Overview
+PSC Browser ("we," "our," or "the App") is committed to protecting user privacy. This Privacy Policy explains how information is handled within the application. PSC Browser is an independent web utility application designed to help users navigate directly to public public-service and exam recruitment portals. It is entirely unaffiliated with any government agency or public sector organization.
+
+2. Strict Privacy-First & Offline Sandbox Architecture
+The App is engineered to operate exclusively on the client-side (locally on your device). 
+• NO Remote Server Ingestion: We do not operate remote backend infrastructure, cloud databases, or tracking telemetry servers.
+• NO Data Harvesting: Because there is no centralized database, your personal browsing sessions, data entries, or configurations are never harvested, monitored, or stored by us.
+
+3. Data Handling and Credentials
+Any information entered into the App—such as User IDs, Passwords, or access settings—remains strictly isolated within the App's secure local sandbox. Data persistence utilizes standard local Android mechanisms and never transmits to any third party.
+
+4. Links to External Public Websites
+The App contains bookmark shortcuts to official, publicly available government websites (such as the Kerala PSC Thulasi portal). Once a user navigates to these third-party web domains, they are subject to the respective privacy policies and data handling rules of those official external websites. We do not control or assume responsibility for the content or privacy structures of external public domains.
+
+5. Changes to This Policy
+We may update our Privacy Policy from time to time. Any changes will be made available by updating the version history of the App or this hosted URL page.
+
+6. Contact Us
+If you have any questions or feedback regarding our privacy practices, you can contact us directly at our developer ecosystem anchor: cornislab.dev@gmail.com
